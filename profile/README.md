@@ -10,7 +10,7 @@ We leverage blockchain governance to ensure that development efforts are transpa
 ## 🧭 Our Mission & Vision
 
 ### Mission
-To establish a decentralized, transparent, and resilient framework for funding and executing public service projects that enhance digital and physical infrastructure across government-run islands in the Caribbean.
+To establish a decentralized, transparent, and resilient framework for funding and executing public service projects that enhance digital and physical infrastructure across small island and developing states in the Caribbean region.
 
 ### The Problem We Solve
 Government-run islands often face challenges related to funding silos, coordination barriers between jurisdictions, and maintaining long-term project transparency. Traditional models can lead to slow execution and a lack of regional cohesion.
