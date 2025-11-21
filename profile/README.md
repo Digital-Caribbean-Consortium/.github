@@ -58,7 +58,7 @@ This is an initiative aiming to bring real-world digital infrastructure and publ
 ### For Developers & Engineers
 Your expertise is essential in building the smart contracts, front-end governance interfaces, and the public service projects themselves (e.g., open-source apps, data platforms).
 
-* **Contribute to:** `[Governance Smart Contract Repository](https://github.com/Digital-Caribbean-Consortium/dcc-governance)`
+* **Contribute to:** [Governance Smart Contract Repository](https://github.com/Digital-Caribbean-Consortium/dcc-governance)
 * **Review Code:** `Coming soon.`
 
 ### For Community & Policy Stakeholders
